@@ -4,7 +4,7 @@
 
 (#) Thanks to the one which is trying this program, hope you will like it
 
-(#) Our Team Members which combined affort can make this project possible are :-
+Our Team Members: 
 
 1) Prashant Ranjan Singh
 
